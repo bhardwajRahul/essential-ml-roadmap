@@ -6,8 +6,8 @@
   <a href="https://github.com/loganthorneloe/ml-road-map">
     <img src="https://img.shields.io/github/stars/loganthorneloe/ml-road-map?style=social" alt="Star on GitHub">
   </a>
-  <a href="https://mlforswes.com">
-    <img src="https://img.shields.io/badge/Subscribe-More%20learning%20resources-orange?style=social&logo=substack" alt="Get all resources from Society's Backend">
+  <a href="https://aiforswes.com">
+    <img src="https://img.shields.io/badge/Subscribe-More%20learning%20resources-orange?style=social&logo=substack" alt="Get all resources from AI for Software Engineers">
   </a>
   <a href="https://twitter.com/loganthorneloe">
     <img src="https://img.shields.io/twitter/follow/loganthorneloe?style=social" alt="Follow on X">
@@ -30,7 +30,7 @@ This road map is streamlined and focuses on the most important topics from the b
 
 **Before you begin:**
 
-> **Don't forget to subscribe to the [ML for SWEs](https://mlforswes.com/): The machine learning newsletter for software engineers.**
+> **Don't forget to subscribe to [AI for Software Engineers](https://aiforswes.com/): The AI newsletter for software engineers.**
 
 > **Please support the authors and creators of these resources!** Many of these resources had hundreds of hours put into them. If you purchase a book linked in the advanced topics section, don't forget to leave a review after reading it! Reviews are vital for authors to continue their work. I've linked to social profiles throughout the document as much as I could. You can support the creators of these resources for free by giving them a follow and liking their content.
 
