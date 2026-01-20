@@ -52,6 +52,7 @@ Let's go! 🚀
   - [Learning Applications](#learning-applications)
   - [Handling Data](#handling-data)
   - [ML Engineering](#ml-engineering)
+  - [Applied AI](#applied-ai)
   - [Other Important Topics](#other-important-topics)
 - [Job Skills](#job-skills)
   - [Interview Prep](#interview-prep)
@@ -128,6 +129,17 @@ Let's go! 🚀
 ### ML Engineering
 - 🛠️ [Made with ML](https://madewithml.com/) by [Goku Mohandas](https://x.com/GokuMohandas)
 - 🎓 [ML School](https://www.ml.school/) by [Santiago](https://x.com/svpino)
+
+### Applied AI
+**AI Agents**
+- 📚 [AI Agents in LangGraph](https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/) by [DeepLearning.AI](https://www.deeplearning.ai/)
+- 📚 [Building Agentic RAG with LlamaIndex](https://www.deeplearning.ai/short-courses/building-agentic-rag-with-llamaindex/) by [DeepLearning.AI](https://www.deeplearning.ai/)
+- 📘 [LangChain Agents Guide](https://python.langchain.com/docs/concepts/agents/) by [LangChain](https://www.langchain.com/)
+
+**Prompt Engineering**
+- 📚 [Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) by [DeepLearning.AI](https://www.deeplearning.ai/)
+- 📘 [Prompt Engineering Guide](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview) by [Anthropic](https://www.anthropic.com/)
+- 📘 [OpenAI Prompt Engineering](https://platform.openai.com/docs/guides/prompt-engineering) by [OpenAI](https://openai.com/)
 
 ### Other Important Topics
 - 📐 [ML Mathematics](https://www.packtpub.com/en-us/product/mathematics-of-machine-learning-9781837027873) by [Tivadar Danka](https://twitter.com/tivadardanka)
