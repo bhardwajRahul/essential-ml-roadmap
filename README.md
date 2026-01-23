@@ -69,6 +69,8 @@ Let's go! 🚀
 ## Prerequisites
 
 ### Programming
+> Master Python and essential libraries for data manipulation and analysis.
+
 **General Programming**
 - 📚 [CS50 (Intro to Programming and Computer Science)](https://cs50.harvard.edu/x/2024/weeks/0/) by [Harvard](https://www.harvard.edu/)
 - 📚 [Google's Python Class](https://developers.google.com/edu/python) by [Google](https://developers.google.com/)
@@ -76,6 +78,8 @@ Let's go! 🚀
 - 📘 [Pandas Course](https://www.kaggle.com/learn/pandas) by [Kaggle](https://kaggle.com/learn)
 
 ### Mathematics
+> Build the mathematical foundation: linear algebra, calculus, and probability.
+
 - 📐 [Algebra Curriculum](https://www.khanacademy.org/math/algebra-home) by [Khan Academy](https://www.khanacademy.org/)
 - 📐 [Linear Algebra](https://www.khanacademy.org/math/linear-algebra) by [Khan Academy](https://www.khanacademy.org/)
 - 📊 [Probability](https://cs50.harvard.edu/ai/2024/weeks/2/) by [Harvard](https://www.harvard.edu/)
@@ -84,6 +88,8 @@ Let's go! 🚀
 - 📈 [Backpropagation Visualization](https://developers-dot-devsite-v2-prod.appspot.com/machine-learning/crash-course/backprop-scroll/) by [Google](https://developers.google.com/)
 
 ### Development Tools
+> Learn version control and command-line tools essential for any developer.
+
 - 🛠️ [Learn Git](https://git-scm.com/book/en/v2) by [Git Community](https://git-scm.com/)
 - 🛠️ [Github Tutorial](https://docs.github.com/en/get-started) by [GitHub](https://github.com/)
 - 🛠️ [Learn Shell](https://www.learnshell.org) by [learnshell.org](https://www.learnshell.org)
@@ -100,48 +106,70 @@ Let's go! 🚀
 ## Advanced Topics
 
 ### Core Concepts
+> Understand fundamental ML principles and system design patterns.
+
 - 📘 [Machine Learning Q and AI](https://www.amazon.com/Machine-Learning-AI-Essential-Questions/dp/1718503768/) by [Sebastian Raschka](https://x.com/rasbt)
 - 📘 [Designing Machine Learning Systems](https://www.amazon.com/dp/1098107969) by [Chip Huyen](https://x.com/chipro)
 
 ### Language Models and NLP
+> Learn how large language models work and how to build them from scratch.
+
 - 🎥 [Intro to LLMs](https://www.youtube.com/watch?v=zjkBMFhNj_g) by [Andrej Karpathy](https://x.com/karpathy)
 - 📘 [Build an LLM From Scratch](https://www.amazon.com/Build-Large-Language-Model-Scratch/dp/1633437167/) by [Sebastian Raschka](https://x.com/rasbt)
 
 ### Deep Learning and Transformers
+> Master neural networks and the transformer architecture powering modern AI.
+
 - 📚 [Deep Learning Fundamentals](https://lightning.ai/courses/deep-learning-fundamentals/) by [LightningAI](https://lightning.ai)
 - 📚 [Engineer's Guide to Deep Learning](https://www.interdb.jp/dl/index.html) by [Hironobu Suzuki](https://x.com/suzuki_hironobu)
 
 ### Reinforcement Learning
+> Train agents to make decisions through trial and error in dynamic environments.
+
 - 📚 [Spinning Up in RL](https://spinningup.openai.com/en/latest/) by [OpenAI](https://openai.com)
 
 ### Natural Language Processing and Computer Vision
+> Apply ML to understand text and images with state-of-the-art techniques.
+
 - 📚 [NLP Course](https://huggingface.co/learn/nlp-course/chapter1/1) by [Huggingface](https://huggingface.co/learn)
 - 📚 [Computer Vision](https://www.kaggle.com/learn/computer-vision) by [Kaggle](https://kaggle.com/learn)
 
 ### Learning Applications
+> Explore how ML is applied in scientific research and game development.
+
 - 📘 [ML for Science](https://ml-science-book.com/) by Christoph Molnar & Timo Freiesleben
 - 🎮 [ML for Games](https://huggingface.co/learn/ml-games-course/unit0/introduction) by [Huggingface](https://huggingface.co/learn)
 
 ### Handling Data
+> Learn to query, clean, and prepare data for machine learning pipelines.
+
 - 📚 [Intro to SQL](https://www.kaggle.com/learn/intro-to-sql) and [Advanced SQL](https://www.kaggle.com/learn/advanced-sql) by [Kaggle](https://kaggle.com/learn)
 - 📚 [Data Preparation](https://developers.google.com/machine-learning/data-prep) by [Google](https://developers.google.com/)
 
 ### ML Engineering
+> Deploy and maintain ML models in production with MLOps best practices.
+
 - 🛠️ [Made with ML](https://madewithml.com/) by [Goku Mohandas](https://x.com/GokuMohandas)
 - 🎓 [ML School](https://www.ml.school/) by [Santiago](https://x.com/svpino)
 
 ### Applied AI
+> Build real-world applications using LLMs and modern AI tools.
+
 **AI Agents**
+> Build autonomous systems that can reason, plan, and execute multi-step tasks using LLMs.
 - 📚 [AI Agents in LangGraph](https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/) by [DeepLearning.AI](https://www.deeplearning.ai/)
 - 📚 [Building Agentic RAG with LlamaIndex](https://www.deeplearning.ai/short-courses/building-agentic-rag-with-llamaindex/) by [DeepLearning.AI](https://www.deeplearning.ai/)
 - 📘 [LangChain Agents Guide](https://python.langchain.com/docs/concepts/agents/) by [LangChain](https://www.langchain.com/)
 
 **Prompt Engineering**
+> Learn techniques to write effective prompts that get better, more reliable outputs from LLMs.
 - 📚 [Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) by [DeepLearning.AI](https://www.deeplearning.ai/)
 - 📘 [Prompt Engineering Guide](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview) by [Anthropic](https://www.anthropic.com/)
 - 📘 [OpenAI Prompt Engineering](https://platform.openai.com/docs/guides/prompt-engineering) by [OpenAI](https://openai.com/)
 
 ### Other Important Topics
+> Dive deeper into specialized areas like efficiency, ethics, and explainability.
+
 - 📐 [ML Mathematics](https://www.packtpub.com/en-us/product/mathematics-of-machine-learning-9781837027873) by [Tivadar Danka](https://twitter.com/tivadardanka)
 - 📈 [ML Efficiency](https://www.youtube.com/playlist?list=PL80kAHvQbh-pT4lCkDT53zT8DKmhE0idB) by [MIT](https://hanlab.mit.edu/courses/2023-fall-65940)
 - 📘 [Knowledge Distillation](https://github.com/dkozlov/awesome-knowledge-distillation) by [Dmitry Kozlov](https://github.com/dkozlov)
@@ -155,6 +183,8 @@ Let's go! 🚀
 This sections contains popular skills on machine learning-related job listings and resources to prepare for interviews for those jobs.
 
 ### Interview Prep
+> Prepare for coding interviews and ML-specific technical questions.
+
 - [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) by Gayle Laakman McDowell
 - 📘 System Design Interview by [Alex Xu](https://twitter.com/alexxubyte)
   - [Volume 1](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF/)
@@ -162,6 +192,8 @@ This sections contains popular skills on machine learning-related job listings a
 - [Study Plan for ML Interviews](https://github.com/khangich/machine-learning-interview) by [Khang Pham](https://x.com/KhangAnPham)
 
 ### Programming Languages
+> Deepen your skills in languages commonly used in ML roles.
+
 - 📚 [Intro to Python](https://cs50.harvard.edu/python/2022/) by Harvard
 - 📚 [Python Deep Dive](https://thepythoncodingplace.com/) by [Stephen Gruppetta](https://x.com/s_gruppetta_ct)
 - 📚 [C++ Tutorial](https://www.youtube.com/watch?v=vLnPwxZdW4Y) by [freeCodeCamp](https://twitter.com/freeCodeCamp)
@@ -169,6 +201,8 @@ This sections contains popular skills on machine learning-related job listings a
 - 📚 [Java](https://java-programming.mooc.fi/) by University of Helsinki
 
 ### ML Frameworks
+> Master the libraries and tools used to build and train ML models.
+
 **Deep Learning**
 - 📚 [TensorFlow 2.0 Complete Course](https://www.youtube.com/watch?v=tPYj3fFJGjk) by [freeCodeCamp](https://twitter.com/freeCodeCamp)
 - 📚 [PyTorch for Deep Learning](https://www.youtube.com/watch?v=Z_ikDlimN6A) by [Daniel Bourke](https://twitter.com/mrdbourke)
@@ -190,12 +224,16 @@ This sections contains popular skills on machine learning-related job listings a
 - 📘 [CUDA Programming Guide](https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html) by [NVIDIA](https://developer.nvidia.com/)
 
 ### Cloud Platforms
+> Learn to deploy and scale ML workloads on major cloud providers.
+
 **Major Providers**
 - 🛠️ [ML on Google Cloud](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp) by [Google Cloud](https://cloud.google.com/)
 - 🛠️ [AWS Machine Learning](https://aws.amazon.com/training/learn-about/machine-learning/) by [Amazon Web Services](https://aws.amazon.com/)
 - 🛠️ [Azure AI Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/azure-ai-fundamentals/) by [Microsoft](https://www.microsoft.com/en-us/ai)
 
 ### DevOps Tools
+> Containerize and orchestrate ML applications for production deployment.
+
 - 🛠️ [Kubernetes Tutorial](https://www.youtube.com/watch?v=X48VuDVv0do) by [TechWorld with Nana](https://www.youtube.com/@TechWorldwithNana)
 - 🛠️ [Docker Tutorial](https://www.youtube.com/watch?v=fqMOX6JJhGo) by [freeCodeCamp](https://twitter.com/freeCodeCamp)
 
