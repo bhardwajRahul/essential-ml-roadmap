@@ -132,11 +132,13 @@ Let's go! 🚀
 
 ### Applied AI
 **AI Agents**
+> Build autonomous systems that can reason, plan, and execute multi-step tasks using LLMs.
 - 📚 [AI Agents in LangGraph](https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/) by [DeepLearning.AI](https://www.deeplearning.ai/)
 - 📚 [Building Agentic RAG with LlamaIndex](https://www.deeplearning.ai/short-courses/building-agentic-rag-with-llamaindex/) by [DeepLearning.AI](https://www.deeplearning.ai/)
 - 📘 [LangChain Agents Guide](https://python.langchain.com/docs/concepts/agents/) by [LangChain](https://www.langchain.com/)
 
 **Prompt Engineering**
+> Learn techniques to write effective prompts that get better, more reliable outputs from LLMs.
 - 📚 [Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) by [DeepLearning.AI](https://www.deeplearning.ai/)
 - 📘 [Prompt Engineering Guide](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview) by [Anthropic](https://www.anthropic.com/)
 - 📘 [OpenAI Prompt Engineering](https://platform.openai.com/docs/guides/prompt-engineering) by [OpenAI](https://openai.com/)
