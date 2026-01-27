@@ -1,6 +1,6 @@
 # ML Advanced Topics
 
-Specialized ML techniques—computer vision, NLP, LLMs, and model optimization.
+Specialized ML techniques—computer vision, NLP, LLMs, and optimization.
 
 ## Computer Vision
 
@@ -12,15 +12,12 @@ Specialized ML techniques—computer vision, NLP, LLMs, and model optimization.
 - 📘 [Build an LLM From Scratch](https://www.amazon.com/Build-Large-Language-Model-Scratch/dp/1633437167/) by Sebastian Raschka
 - 📚 [HuggingFace NLP Course](https://huggingface.co/learn/nlp-course/chapter1/1)
 
-## Model Optimization
+## Optimization & Explainability
 
 - 📘 [Knowledge Distillation](https://github.com/dkozlov/awesome-knowledge-distillation) by Dmitry Kozlov
-
-## ML Explainability
-
 - 📚 [ML Explainability](https://www.kaggle.com/learn/machine-learning-explainability) by Kaggle
 
-## ML for Specific Domains
+## Domain Applications
 
 - 📘 [ML for Science](https://ml-science-book.com/) by Molnar & Freiesleben
 - 🎮 [ML for Games](https://huggingface.co/learn/ml-games-course/unit0/introduction) by HuggingFace
