@@ -2,7 +2,7 @@
 
 This project aims to help you build your first recommendation system from scratch. It includes both the training code and a UI to visualize the systems in real-time as as it retrains.
 
-This project has **two** accompanying articles. One explains [collaborative filtering in production](https://mlforswes.com/p/spotify-case-study) using Spotify as an example. The other walks you through building the code in this folder (WIP - coming soon!).
+This project has **two** accompanying articles. One explains [collaborative filtering in production](https://mlforswes.com/p/spotify-case-study) using Spotify as an example. The other [walks you through building the code in this folder](https://www.aiforswes.com/p/collaborative-filtering).
 
 ![Alt text for the GIF](/assets/recommendations.gif)
 
