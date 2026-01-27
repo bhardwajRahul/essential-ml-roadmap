@@ -21,6 +21,8 @@ Your free guide to learning ML and AI. Follow in order. Paid resources marked wi
 
 ---
 
+![prerequisites](assets/road_map_sections/prereqs.png)
+
 ## Prerequisites
 
 **Programming**
@@ -39,6 +41,8 @@ Your free guide to learning ML and AI. Follow in order. Paid resources marked wi
 
 ---
 
+![ml fundamentals](assets/road_map_sections/ml_fundamentals.png)
+
 ## Machine Learning Fundamentals
 
 - [What is Machine Learning?](https://developers.google.com/machine-learning/intro-to-ml) by Google — 20 min overview
@@ -48,6 +52,8 @@ Your free guide to learning ML and AI. Follow in order. Paid resources marked wi
 - **[Hands-on: Build a Recommendation System](./recommendation-system/)** — Collaborative filtering with PyTorch
 
 ---
+
+![advanced topics](assets/road_map_sections/advanced%20_topics.png)
 
 ## Advanced Topics
 
@@ -69,6 +75,8 @@ Your free guide to learning ML and AI. Follow in order. Paid resources marked wi
 
 ---
 
+![ai engineering](assets/road_map_sections/ai_engineering.png)
+
 ## AI Engineering
 
 Building products with AI — prompts, agents, RAG, evals, fine-tuning, local models.
@@ -87,6 +95,8 @@ Building products with AI — prompts, agents, RAG, evals, fine-tuning, local mo
 - [MLX Community Models](https://huggingface.co/mlx-community), [Ollama](https://ollama.com/)
 
 ---
+
+![ml engineering](assets/road_map_sections/ml_engineering.png)
 
 ## ML Engineering
 
