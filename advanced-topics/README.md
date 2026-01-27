@@ -16,6 +16,10 @@ Specialized ML techniques—computer vision, NLP, LLMs, and model optimization.
 
 - 📘 [Knowledge Distillation](https://github.com/dkozlov/awesome-knowledge-distillation) by Dmitry Kozlov
 
+## ML Explainability
+
+- 📚 [ML Explainability](https://www.kaggle.com/learn/machine-learning-explainability) by Kaggle
+
 ## ML for Specific Domains
 
 - 📘 [ML for Science](https://ml-science-book.com/) by Molnar & Freiesleben

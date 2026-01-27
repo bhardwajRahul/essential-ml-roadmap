@@ -36,7 +36,11 @@ Your free guide to learning ML and AI. Streamlined—one or two high-quality res
 ## ⚖️ Responsible AI
 
 - 📚 [Intro to AI Ethics](https://www.kaggle.com/learn/intro-to-ai-ethics) by Kaggle
-- 📚 [ML Explainability](https://www.kaggle.com/learn/machine-learning-explainability) by Kaggle
+- 📘 [Google Responsible AI Practices](https://ai.google/responsibility/responsible-ai-practices/) by Google
+- 📘 [Anthropic Core Views on AI Safety](https://www.anthropic.com/news/core-views-on-ai-safety) by Anthropic
+- 📘 [Microsoft Responsible AI](https://www.microsoft.com/en-us/ai/responsible-ai) by Microsoft
+- 🌐 [Partnership on AI](https://partnershiponai.org/) — Multi-stakeholder organization for responsible AI
+- 🎓 [Stanford HAI](https://hai.stanford.edu/) — Human-Centered AI research and policy
 
 ## 🖥️ Free Compute
 
