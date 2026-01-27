@@ -22,7 +22,7 @@ This is your streamlined roadmap to learning AI and machine learning from scratc
 > [!TIP]
 > While the whole learning path is free, some paid resources are included and marked with 💰. These paid resources further streamline your learning. I *highly* recommend them as they're from the best AI educators in the world.
 
-This is an **[AI for Software Engineers](https://aiforswes.com)** resource. **[Subscribe](https://aiforswes.com/subscribe)** to the newsletter to get more fundamental resources and technical deep dives in your inbox. If you'd like to support my work, you can subscribe there (paid or free—both help) and star this repository.
+This is an **[AI for Software Engineers](https://aiforswes.com)** resource. **[Subscribe](https://aiforswes.com/subscribe)** to the newsletter to get more fundamental resources and technical deep dives in your inbox. If you'd like to support my work, you can subscribe there (paid or free—both help) and star this repository. Have a resource to add? See [how to contribute](./CONTRIBUTING.md).
 
 **Contents**
 - [Prerequisites](#prerequisites)
