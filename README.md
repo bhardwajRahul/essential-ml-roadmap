@@ -19,9 +19,9 @@
 
 This is your streamlined roadmap to learning AI and machine learning from scratch, for free. It starts with prerequisites, moves into machine learning fundamentals, and then engineering topics. This repo will be continually updated as I find great resources and create more guides.
 
-> While as resources are free, some paid resources are included and marked with 💰. These resources cost but also further streamline your learning. I *highly* recommend them as they're from the best AI educators in the world.
+> While most resources are free, some paid resources are included and marked with 💰. These paid resources further streamline your learning. I *highly* recommend them as they're from the best AI educators in the world.
 
-This is an **[AI for Software Engineers](aiforswes.com)** resource. **[Subscribe](aiforswes.com/subscribe)** to the newsletter to get more fundamental resources and technical deep dives in your inbox. If you'd like to support my work, you can subscribe there (paid for free—both help) and star this repository.
+This is an **[AI for Software Engineers](https://aiforswes.com)** resource. **[Subscribe](https://aiforswes.com/subscribe)** to the newsletter to get more fundamental resources and technical deep dives in your inbox. If you'd like to support my work, you can subscribe there (paid or free—both help) and star this repository.
 
 **Contents**
 - [Prerequisites](#prerequisites)
@@ -29,8 +29,11 @@ This is an **[AI for Software Engineers](aiforswes.com)** resource. **[Subscribe
 - [AI Engineering](#ai-engineering)
 - [ML Engineering](#ml-engineering)
 - [Interview Prep](#interview-prep)
-- [Responsible AI](#responsible-ai)
 - [Free Compute](#free-compute)
+
+### How to use this guide
+
+Follow the resources in order down the page. Skip the topics you already understand well. You *can* skip to AI engineering section and come back to ML fundamentals later if AI engineering is your focus. I *highly* recommend going through the ML fundamentals section even if this is the case as it will give you a much deeper understanding of the topics in AI engineering.
 
 ---
 
@@ -121,7 +124,7 @@ More coming soon to this section...
 - [Made with ML](https://madewithml.com/) by Goku Mohandas — Complete MLOps course from design to production
 - [ML Efficiency](https://www.youtube.com/playlist?list=PL80kAHvQbh-pT4lCkDT53zT8DKmhE0idB) by MIT
 - [GPU Performance Engineering Resources](https://github.com/wafer-ai/gpu-perf-engineering-resources) by Wafer AI
-- [MLOps Community](https://mlops.community/) - A community for MLOps practitioners
+- [MLOps Community](https://mlops.community/)
 
 > 💰 For deeper understanding, read [Designing Machine Learning Systems](https://www.amazon.com/dp/1098107969) by Chip Huyen — covers the architecture and trade-offs of production ML systems.
 
