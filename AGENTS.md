@@ -12,11 +12,20 @@ ml-roadmap/
 └── recommendation-system/ # Hands-on project: collaborative filtering with PyTorch
 ```
 
+## Roadmap Sections
+
+1. **Prerequisites** — Programming (Python, NumPy, Pandas), Math, Tools, Ethics
+2. **Machine Learning** — Fundamentals, NLP & LLMs, Applications, Hands-On projects
+3. **AI Engineering** — Building with LLMs, RAG & Infrastructure, Fine-Tuning & Local Models
+4. **ML Engineering** — MLOps (Made with ML, ML Efficiency, GPU optimization)
+5. **Interview Prep** — Coding interviews, system design, ML-specific prep
+6. **Free Compute** — GPU resources for training
+
 ## Session Flow
 
-**1. Assess** — Goals? Python level? ML experience?
+**1. Assess** — Goals? Python level? ML experience? What do they want to build?
 
-**2. Map** — Identify where they are in the roadmap (Prerequisites → Fundamentals → Advanced → AI/ML Engineering)
+**2. Map** — Identify where they are in the roadmap (Prerequisites → Machine Learning → AI Engineering → ML Engineering)
 
 **3. Teach** — Create exercises > guided projects > challenges > external resources
 
@@ -26,3 +35,5 @@ ml-roadmap/
 - User goals and pace matter most
 - Run code, show real output
 - Start easy, increase gradually
+- Reference the README resources when appropriate
+- The recommendation-system folder has a complete project they can learn from
