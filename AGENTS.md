@@ -10,9 +10,7 @@ You are a **personalized ML tutor**. Guide users through this roadmap with hands
 ml-roadmap/
 ├── README.md           # Overview, DAG, interview prep, free compute
 ├── prerequisites/      # Python, Math, Dev Tools
-├── ml-fundamentals/    # Core ML concepts
-├── advanced-topics/    # Deep Learning, RL, Optimization
-├── applications/       # CV, NLP, LLMs, Projects
+├── ml-fundamentals/    # Everything ML: core, DL, RL, CV, NLP, LLMs, projects
 ├── ai-engineering/     # Prompts, Agents, RAG, Evals
 ├── ml-engineering/     # Data Eng, MLOps, Production
 └── ethics/             # AI Ethics, Explainability

@@ -17,7 +17,7 @@
 
 # Machine Learning Road Map
 
-Your free guide to learning ML and AI. This roadmap is streamlined—one or two high-quality resources per topic, not a dozen options that leave you paralyzed.
+Your free guide to learning ML and AI. Streamlined—one or two high-quality resources per topic.
 
 ```mermaid
 graph LR
@@ -25,33 +25,26 @@ graph LR
         PREREQ[📚 Prerequisites]
     end
 
-    subgraph "Core ML"
-        MLF[🧠 ML Fundamentals]
-        ADV[⚡ Advanced Topics]
+    subgraph Learning
+        ML[🧠 Machine Learning]
     end
 
-    subgraph "Specialization"
-        APP[🎯 Applications]
+    subgraph Building
         AIE[🤖 AI Engineering]
         MLE[🔧 ML Engineering]
     end
 
-    subgraph "For Everyone"
+    subgraph Ethics
         ETH[⚖️ Ethics]
     end
 
-    PREREQ --> MLF
-    MLF --> ADV
-    MLF --> AIE
-    ADV --> APP
-    ADV --> MLE
-    APP --> MLE
+    PREREQ --> ML
+    ML --> AIE
+    ML --> MLE
     MLE --> AIE
 
     style PREREQ fill:#e1f5fe
-    style MLF fill:#fff3e0
-    style ADV fill:#fff3e0
-    style APP fill:#e8f5e9
+    style ML fill:#fff3e0
     style AIE fill:#e8f5e9
     style MLE fill:#e8f5e9
     style ETH fill:#fce4ec
@@ -59,13 +52,11 @@ graph LR
 
 | Section | What You'll Learn |
 |---------|-------------------|
-| 📚 [**Prerequisites**](./prerequisites/) | Python programming, essential math, and dev tools you need before starting ML |
-| 🧠 [**ML Fundamentals**](./ml-fundamentals/) | Core concepts that underpin all of machine learning—how models learn, evaluate, and improve |
-| ⚡ [**Advanced Topics**](./advanced-topics/) | Deep learning, reinforcement learning, and other specialized techniques |
-| 🎯 [**Applications**](./applications/) | Put ML to work: computer vision, NLP, LLMs, and hands-on projects |
-| 🤖 [**AI Engineering**](./ai-engineering/) | Build AI products: prompts, agents, RAG, evals, and benchmarks |
-| 🔧 [**ML Engineering**](./ml-engineering/) | Take models to production: data pipelines, MLOps, deployment, and optimization |
-| ⚖️ [**Ethics**](./ethics/) | Responsible AI: ethics, explainability, and building systems people can trust |
+| 📚 [**Prerequisites**](./prerequisites/) | Python, math, and dev tools you need before starting ML |
+| 🧠 [**Machine Learning**](./ml-fundamentals/) | Core concepts, deep learning, RL, CV, NLP, LLMs—everything about how ML works |
+| 🤖 [**AI Engineering**](./ai-engineering/) | Build AI products: prompts, agents, RAG, evals |
+| 🔧 [**ML Engineering**](./ml-engineering/) | Take models to production: data pipelines, MLOps, deployment |
+| ⚖️ [**Ethics**](./ethics/) | Responsible AI: ethics, explainability, trustworthy systems |
 
 ## 📖 Interview Prep
 
@@ -74,8 +65,6 @@ graph LR
 - 📋 [Study Plan for ML Interviews](https://github.com/khangich/machine-learning-interview) by Khang Pham
 
 ## 🖥️ Free Compute Resources
-
-Need GPUs to train models? These are free:
 
 | Resource | What You Get |
 |----------|--------------|
