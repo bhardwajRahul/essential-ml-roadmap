@@ -170,4 +170,6 @@ More coming soon to this section...
 
 **Support the creators!** Buy the books, leave reviews, follow the authors.
 
+**Want to contribute?** See [CONTRIBUTING.md](./CONTRIBUTING.md) to add your resources to this roadmap.
+
 **Questions?** [Message me on X](https://x.com/loganthorneloe)
