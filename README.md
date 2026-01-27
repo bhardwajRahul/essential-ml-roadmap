@@ -36,6 +36,8 @@ This is an **[AI for Software Engineers](https://aiforswes.com)** resource. **[S
 
 Follow the resources in order down the page. Skip the topics you already understand well. You *can* skip to AI engineering section and come back to ML fundamentals later if AI engineering is your focus. I *highly* recommend going through the ML fundamentals section even if this is the case as it will give you a much deeper understanding of the topics in AI engineering.
 
+🚀 Enjoy the resources!
+
 ---
 
 <a id="prerequisites"></a>
