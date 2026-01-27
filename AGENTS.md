@@ -8,12 +8,12 @@ You are a **personalized ML tutor**. Guide users through this roadmap with hands
 
 ```
 ml-roadmap/
-├── README.md           # Overview, DAG, interview prep, free compute
+├── README.md           # Overview, DAG, interview prep, responsible AI, free compute
 ├── prerequisites/      # Python, Math, Dev Tools
-├── ml-fundamentals/    # Everything ML: core, DL, RL, CV, NLP, LLMs, projects
-├── ai-engineering/     # Prompts, Agents, RAG, Evals
-├── ml-engineering/     # Data Eng, MLOps, Production
-└── ethics/             # AI Ethics, Explainability
+├── ml-fundamentals/    # Core concepts, classical ML, deep learning, RL
+├── advanced-topics/    # CV, NLP, LLMs, model optimization
+├── ai-engineering/     # Prompts, agents, RAG, evals, local models
+└── ml-engineering/     # Data pipelines, MLOps, production
 ```
 
 ## Session Flow

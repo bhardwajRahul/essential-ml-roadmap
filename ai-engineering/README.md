@@ -1,6 +1,6 @@
 # AI Engineering
 
-Prompts, agents, RAG, evals, and local models. This section covers building products with existing AI models—not training your own (ML Fundamentals) or deploying them (ML Engineering).
+Prompts, agents, RAG, evals, and local models. Building products with existing AI models.
 
 ## Prompt Engineering
 
@@ -8,15 +8,11 @@ Prompts, agents, RAG, evals, and local models. This section covers building prod
 
 ## AI Agents
 
-- 📚 [Building Agentic RAG with LlamaIndex](https://www.deeplearning.ai/short-courses/building-agentic-rag-with-llamaindex/) by DeepLearning.AI
-- 📘 [OpenAI Agents Guide](https://platform.openai.com/docs/guides/agents) by OpenAI
-- 📘 [Anthropic Agent Patterns](https://docs.anthropic.com/en/docs/build-with-claude/agentic-systems) by Anthropic
+- 📘 [Building Effective Agents](https://docs.anthropic.com/en/docs/build-with-claude/agentic-systems) by Anthropic
 
-## Evals & Benchmarks
+## Evals
 
-- 📘 [OpenAI Evals Guide](https://platform.openai.com/docs/guides/evals) by OpenAI
-- 📘 [Anthropic Eval Guide](https://docs.anthropic.com/en/docs/build-with-claude/develop-tests) by Anthropic
-- 🛠️ [LangSmith](https://docs.smith.langchain.com/) by LangChain
+- 📘 [Testing and Evaluation](https://docs.anthropic.com/en/docs/build-with-claude/develop-tests) by Anthropic
 
 ## RAG
 
@@ -24,7 +20,7 @@ Prompts, agents, RAG, evals, and local models. This section covers building prod
 
 ## Local Models
 
-- 📰 [You Don't Need to Spend $100/mo on Claude Code](https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude) by AI for Software Engineers
+- 📰 [How to Set Up a Local Coding Model](https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude) by Logan Thorneloe
 - 🛠️ [Model Configurations](https://github.com/loganthorneloe/modelfiles) — Configs for MLX and Ollama
-- 🛠️ [MLX Community Models](https://huggingface.co/mlx-community) — Apple Silicon optimized
-- 🛠️ [Ollama](https://ollama.com/) — Local model serving
+- 🛠️ [MLX Community Models](https://huggingface.co/mlx-community)
+- 🛠️ [Ollama](https://ollama.com/)

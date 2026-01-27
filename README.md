@@ -26,7 +26,8 @@ graph LR
     end
 
     subgraph Learning
-        ML[🧠 ML Fundamentals]
+        MLF[🧠 ML Fundamentals]
+        ADV[⚡ Advanced Topics]
     end
 
     subgraph Building
@@ -34,51 +35,53 @@ graph LR
         MLE[🔧 ML Engineering]
     end
 
-    subgraph Ethics
-        ETH[⚖️ Ethics]
-    end
-
-    PREREQ --> ML
-    ML --> AIE
-    ML --> MLE
+    PREREQ --> MLF
+    MLF --> ADV
+    MLF --> AIE
+    ADV --> MLE
     MLE --> AIE
 
     style PREREQ fill:#e1f5fe
-    style ML fill:#fff3e0
+    style MLF fill:#fff3e0
+    style ADV fill:#fff3e0
     style AIE fill:#e8f5e9
     style MLE fill:#e8f5e9
-    style ETH fill:#fce4ec
 ```
 
 | Section | What You'll Learn |
 |---------|-------------------|
-| 📚 [**Prerequisites**](./prerequisites/) | Python, math, and dev tools you need before starting ML |
-| 🧠 [**Machine Learning Fundamentals**](./ml-fundamentals/) | Core concepts, deep learning, RL, computer vision, NLP, and LLMs |
-| 🤖 [**AI Engineering**](./ai-engineering/) | Build AI products: prompts, agents, RAG, evals |
-| 🔧 [**ML Engineering**](./ml-engineering/) | Take models to production: data pipelines, MLOps, deployment |
-| ⚖️ [**Responsible AI**](./ethics/) | Ethics, explainability, and building systems people can trust |
+| 📚 [**Prerequisites**](./prerequisites/) | Python, math, and dev tools |
+| 🧠 [**ML Fundamentals**](./ml-fundamentals/) | Core concepts, classical algorithms, deep learning, RL |
+| ⚡ [**Advanced Topics**](./advanced-topics/) | Computer vision, NLP, LLMs, model optimization |
+| 🤖 [**AI Engineering**](./ai-engineering/) | Prompts, agents, RAG, evals, local models |
+| 🔧 [**ML Engineering**](./ml-engineering/) | Data pipelines, MLOps, production deployment |
 
 ## 📖 Interview Prep
 
 - 📘 Elements of Programming Interviews in [Python](https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949/) / [Java](https://www.amazon.com/Elements-Programming-Interviews-Java-Insiders/dp/1517671272/) / [C++](https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836/)
-- 📘 System Design Interview by Alex Xu - [Volume 1](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF/) and [Volume 2](https://www.amazon.com/System-Design-Interview-Insiders-Guide/dp/1736049119/)
+- 📘 System Design Interview by Alex Xu - [Volume 1](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF/) / [Volume 2](https://www.amazon.com/System-Design-Interview-Insiders-Guide/dp/1736049119/)
 - 📋 [Study Plan for ML Interviews](https://github.com/khangich/machine-learning-interview) by Khang Pham
 
-## 🖥️ Free Compute Resources
+## ⚖️ Responsible AI
+
+- 📚 [Intro to AI Ethics](https://www.kaggle.com/learn/intro-to-ai-ethics) by Kaggle
+- 📚 [ML Explainability](https://www.kaggle.com/learn/machine-learning-explainability) by Kaggle
+
+## 🖥️ Free Compute
 
 | Resource | What You Get |
 |----------|--------------|
-| 🥇 [Google Colab](https://colab.google/) | Free T4/P100 GPUs, easiest to start |
-| 🥇 [Kaggle Notebooks](https://www.kaggle.com/code) | 30 hours/week of P100/T4 GPU |
+| 🥇 [Google Colab](https://colab.google/) | Free T4/P100 GPUs |
+| 🥇 [Kaggle Notebooks](https://www.kaggle.com/code) | 30 hours/week GPU |
 | [Lightning AI](https://lightning.ai/) | 22 GPU hours free |
 | [Google Cloud](https://cloud.google.com/gpu) | $300 free credits |
-| [Amazon SageMaker](https://aws.amazon.com/machine-learning/accelerate-machine-learning-P3/) | Free tier available |
+| [Amazon SageMaker](https://aws.amazon.com/machine-learning/accelerate-machine-learning-P3/) | Free tier |
 | [Paperspace Gradient](https://www.paperspace.com/notebooks) | Free community tier |
 
 ---
 
 **Subscribe to [AI for Software Engineers](https://aiforswes.com/)** for more resources.
 
-**Support the creators!** Many of these resources took hundreds of hours to make. Buy the books, leave reviews, follow the authors.
+**Support the creators!** Buy the books, leave reviews, follow the authors.
 
 **Questions?** [Message me on X](https://x.com/loganthorneloe)
