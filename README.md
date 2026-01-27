@@ -17,7 +17,11 @@
 
 # Machine Learning Road Map
 
-Your free guide to learning ML and AI. Follow in order. Paid resources marked with 💰.
+This is your streamlined roadmap to learning AI and machine learning from scratch, for free. It starts with prerequisites, moves into machine learning fundamentals, and then engineering topics. This repo will be continually updated as I find great resources and create more guides.
+
+> While as resources are free, some paid resources are included and marked with 💰. These resources cost but also further streamline your learning. I *highly* recommend them as they're from the best AI educators in the world.
+
+This is an **[AI for Software Engineers](aiforswes.com)** resource. **[Subscribe](aiforswes.com/subscribe)** to the newsletter to get more fundamental resources and technical deep dives in your inbox. If you'd like to support my work, you can subscribe there (paid for free—both help) and star this repository.
 
 **Contents**
 - [Prerequisites](#prerequisites)
@@ -40,12 +44,12 @@ Your free guide to learning ML and AI. Follow in order. Paid resources marked wi
 - [Pandas Course](https://www.kaggle.com/learn/pandas) by Kaggle — Data manipulation
 
 **Math**
+> 💰 This entire section can be streamlined via Tivadar Danka's [Mathematics of Machine Learning](https://www.packtpub.com/en-us/product/mathematics-of-machine-learning-9781837027873) book. It goes through all of the math topics in this section and more.
 - [Algebra](https://www.khanacademy.org/math/algebra-home) by Khan Academy
 - [Linear Algebra](https://www.khanacademy.org/math/linear-algebra) by Khan Academy
 - [Probability](https://cs50.harvard.edu/ai/2024/weeks/2/) by Harvard
 - [Derivatives](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives) by Khan Academy
 - [Backpropagation Visualization](https://developers-dot-devsite-v2-prod.appspot.com/machine-learning/crash-course/backprop-scroll/) by Google
-- 💰 [Mathematics of Machine Learning](https://www.packtpub.com/en-us/product/mathematics-of-machine-learning-9781837027873) by Tivadar Danka
 
 **Tools**
 - [Git](https://git-scm.com/book/en/v2)
@@ -61,62 +65,66 @@ Your free guide to learning ML and AI. Follow in order. Paid resources marked wi
 - [What is Machine Learning?](https://developers.google.com/machine-learning/intro-to-ml) by Google — 20 min overview
 - [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) by Google — Full course covering regression, classification, neural networks, embeddings, LLMs
 - [Spinning Up in RL](https://spinningup.openai.com/en/latest/) by OpenAI — Reinforcement learning
-- 💰 [Machine Learning Q and AI](https://www.amazon.com/Machine-Learning-AI-Essential-Questions/dp/1718503768/) by Sebastian Raschka
 
-**Computer Vision**
-- [Kaggle CV Course](https://www.kaggle.com/learn/computer-vision)
+> 💰 I highly recommend reading Sebastian Raschka's book [Machine Learning Q and AI](https://www.amazon.com/Machine-Learning-AI-Essential-Questions/dp/1718503768/) to get a deeper understanding of fundamental machine learning and AI topics.
 
 **NLP & LLMs**
 - [Intro to LLMs](https://www.youtube.com/watch?v=zjkBMFhNj_g) by Andrej Karpathy
-- [HuggingFace NLP Course](https://huggingface.co/learn/nlp-course/chapter1/1)
-- 💰 [Build an LLM From Scratch](https://www.amazon.com/Build-Large-Language-Model-Scratch/dp/1633437167/) by Sebastian Raschka
+- [LLM Course](https://github.com/mlabonne/llm-course) by Maxime Labonne — Roadmaps, Colab notebooks, covers fundamentals to fine-tuning
 
-**Optimization & Explainability**
-- [Knowledge Distillation](https://github.com/dkozlov/awesome-knowledge-distillation) by Dmitry Kozlov
+> 💰 You can learn how to build your own GPT-3 level LLM step-by-step in Sebastian Raschka's book [Build an LLM From Scratch](https://www.amazon.com/Build-Large-Language-Model-Scratch/dp/1633437167/).
+
+**Applications**
+- [Computer Vision](https://www.kaggle.com/learn/computer-vision) by Kaggle
+- [NLP Course](https://huggingface.co/learn/nlp-course/chapter1/1) by HuggingFace
 - [ML Explainability](https://www.kaggle.com/learn/machine-learning-explainability) by Kaggle
-
-**Domain Applications**
+- [Knowledge Distillation](https://github.com/dkozlov/awesome-knowledge-distillation) by Dmitry Kozlov
 - [ML for Science](https://ml-science-book.com/) by Molnar & Freiesleben
 - [ML for Games](https://huggingface.co/learn/ml-games-course/unit0/introduction) by HuggingFace
 
 **Hands-On**
 - [Build a Recommendation System](./recommendation-system/) — Collaborative filtering with PyTorch
 
+More coming soon to this section...
+
 ---
 
 <a id="ai-engineering"></a>
 ![ai engineering](assets/road_map_sections/ai_engineering.png)
 
+**Building with LLMs**
 - [Prompt Engineering Guide](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview) by Anthropic
 - [Building Effective Agents](https://docs.anthropic.com/en/docs/build-with-claude/agentic-systems) by Anthropic
+- [Testing and Evaluation](https://docs.anthropic.com/en/docs/build-with-claude/develop-tests) by Anthropic
+
+**RAG & Infrastructure**
 - [MCP Documentation](https://modelcontextprotocol.io/) — Connecting AI to external tools
 - [Building Agentic RAG](https://www.deeplearning.ai/short-courses/building-agentic-rag-with-llamaindex/) by DeepLearning.AI
 - [Vector Databases Explained](https://www.pinecone.io/learn/vector-database/) by Pinecone
-- [Testing and Evaluation](https://docs.anthropic.com/en/docs/build-with-claude/develop-tests) by Anthropic
-- [LoRA and PEFT](https://huggingface.co/learn/smol-course/en/unit1/3a) by HuggingFace — Parameter-efficient fine-tuning
 
-**Local Models**
-- [How to Set Up a Local Coding Model](https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude) by Logan Thorneloe
-- [Model Configurations](https://github.com/loganthorneloe/modelfiles) — Configs for MLX and Ollama
-- [MLX Community Models](https://huggingface.co/mlx-community)
-- [Ollama](https://ollama.com/)
+**Fine-Tuning & Local Models**
+- [LoRA and PEFT](https://huggingface.co/learn/smol-course/en/unit1/3a) by HuggingFace — Parameter-efficient fine-tuning
+- [How to Set Up Your Own Local Coding Model](https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude) by Logan Thorneloe
 
 ---
 
 <a id="ml-engineering"></a>
 ![ml engineering](assets/road_map_sections/ml_engineering.png)
 
+**Data**
 - [Intro to SQL](https://www.kaggle.com/learn/intro-to-sql) by Kaggle
 - [Advanced SQL](https://www.kaggle.com/learn/advanced-sql) by Kaggle
 - [Data Preparation](https://developers.google.com/machine-learning/data-prep) by Google
 - [DVC](https://dvc.org/doc/start) — Git for data and models
+
+**MLOps**
 - [MLflow](https://mlflow.org/docs/latest/ml/tracking/quickstart/) — Experiment tracking
 - [Made with ML](https://madewithml.com/) by Goku Mohandas
 - [Evidently AI](https://www.evidentlyai.com/blog/mlops-monitoring) — Model monitoring
 - [ML Efficiency](https://www.youtube.com/playlist?list=PL80kAHvQbh-pT4lCkDT53zT8DKmhE0idB) by MIT
 - [MLOps Community](https://mlops.community/)
-- 💰 [ML School](https://www.ml.school/) by Santiago
-- 💰 [Designing Machine Learning Systems](https://www.amazon.com/dp/1098107969) by Chip Huyen
+
+> 💰 For comprehensive MLOps training, check out [ML School](https://www.ml.school/) by Santiago and [Designing Machine Learning Systems](https://www.amazon.com/dp/1098107969) by Chip Huyen.
 
 ---
 
