@@ -40,12 +40,17 @@ Your free guide to learning ML and AI. Follow in order. Paid resources marked wi
 - [Pandas Course](https://www.kaggle.com/learn/pandas) by Kaggle — Data manipulation
 
 **Math**
-- [Algebra](https://www.khanacademy.org/math/algebra-home), [Linear Algebra](https://www.khanacademy.org/math/linear-algebra), [Probability](https://cs50.harvard.edu/ai/2024/weeks/2/), [Derivatives](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives) — Khan Academy & Harvard
+- [Algebra](https://www.khanacademy.org/math/algebra-home) by Khan Academy
+- [Linear Algebra](https://www.khanacademy.org/math/linear-algebra) by Khan Academy
+- [Probability](https://cs50.harvard.edu/ai/2024/weeks/2/) by Harvard
+- [Derivatives](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives) by Khan Academy
 - [Backpropagation Visualization](https://developers-dot-devsite-v2-prod.appspot.com/machine-learning/crash-course/backprop-scroll/) by Google
-- 💰 [Mathematics of Machine Learning](https://www.packtpub.com/en-us/product/mathematics-of-machine-learning-9781837027873) by Tivadar Danka — Goes deeper
+- 💰 [Mathematics of Machine Learning](https://www.packtpub.com/en-us/product/mathematics-of-machine-learning-9781837027873) by Tivadar Danka
 
 **Tools**
-- [Git](https://git-scm.com/book/en/v2), [GitHub](https://docs.github.com/en/get-started), [Shell](https://www.learnshell.org)
+- [Git](https://git-scm.com/book/en/v2)
+- [GitHub](https://docs.github.com/en/get-started)
+- [Shell](https://www.learnshell.org)
 
 ---
 
@@ -93,14 +98,16 @@ Your free guide to learning ML and AI. Follow in order. Paid resources marked wi
 **Local Models**
 - [How to Set Up a Local Coding Model](https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude) by Logan Thorneloe
 - [Model Configurations](https://github.com/loganthorneloe/modelfiles) — Configs for MLX and Ollama
-- [MLX Community Models](https://huggingface.co/mlx-community), [Ollama](https://ollama.com/)
+- [MLX Community Models](https://huggingface.co/mlx-community)
+- [Ollama](https://ollama.com/)
 
 ---
 
 <a id="ml-engineering"></a>
 ![ml engineering](assets/road_map_sections/ml_engineering.png)
 
-- [Intro to SQL](https://www.kaggle.com/learn/intro-to-sql), [Advanced SQL](https://www.kaggle.com/learn/advanced-sql) by Kaggle
+- [Intro to SQL](https://www.kaggle.com/learn/intro-to-sql) by Kaggle
+- [Advanced SQL](https://www.kaggle.com/learn/advanced-sql) by Kaggle
 - [Data Preparation](https://developers.google.com/machine-learning/data-prep) by Google
 - [DVC](https://dvc.org/doc/start) — Git for data and models
 - [MLflow](https://mlflow.org/docs/latest/ml/tracking/quickstart/) — Experiment tracking
@@ -116,8 +123,13 @@ Your free guide to learning ML and AI. Follow in order. Paid resources marked wi
 <a id="interview-prep"></a>
 ## Interview Prep
 
-- 💰 Elements of Programming Interviews in [Python](https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949/) / [Java](https://www.amazon.com/Elements-Programming-Interviews-Java-Insiders/dp/1517671272/) / [C++](https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836/)
-- 💰 System Design Interview by Alex Xu - [Volume 1](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF/) / [Volume 2](https://www.amazon.com/System-Design-Interview-Insiders-Guide/dp/1736049119/)
+- 💰 Elements of Programming Interviews
+  - [Python](https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949/)
+  - [Java](https://www.amazon.com/Elements-Programming-Interviews-Java-Insiders/dp/1517671272/)
+  - [C++](https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836/)
+- 💰 System Design Interview by Alex Xu
+  - [Volume 1](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF/)
+  - [Volume 2](https://www.amazon.com/System-Design-Interview-Insiders-Guide/dp/1736049119/)
 - [Study Plan for ML Interviews](https://github.com/khangich/machine-learning-interview) by Khang Pham
 
 ---
