@@ -56,7 +56,7 @@ graph LR
 | 🧠 [**Machine Learning**](./ml-fundamentals/) | Core concepts, deep learning, RL, CV, NLP, LLMs—everything about how ML works |
 | 🤖 [**AI Engineering**](./ai-engineering/) | Build AI products: prompts, agents, RAG, evals |
 | 🔧 [**ML Engineering**](./ml-engineering/) | Take models to production: data pipelines, MLOps, deployment |
-| ⚖️ [**Ethics**](./ethics/) | Responsible AI: ethics, explainability, trustworthy systems |
+| ⚖️ [**Responsible AI**](./ethics/) | Ethics, explainability, and building systems people can trust |
 
 ## 📖 Interview Prep
 

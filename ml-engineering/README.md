@@ -1,16 +1,15 @@
-# 🔧 ML Engineering
+# ML Engineering
 
 Training a model is 10% of the work. The other 90% is getting it into production—handling data, deploying reliably, monitoring performance, and keeping everything running. ML engineering bridges the gap between "it works on my laptop" and "it works for millions of users."
 
-## 📊 Data Engineering
+## Data Engineering
 
 Models are only as good as their data. Learn to query, clean, and prepare data at scale.
 
-- 📚 [Intro to SQL](https://www.kaggle.com/learn/intro-to-sql) by Kaggle — Query fundamentals
-- 📚 [Advanced SQL](https://www.kaggle.com/learn/advanced-sql) by Kaggle — Complex queries and optimization
-- 📚 [Data Preparation](https://developers.google.com/machine-learning/data-prep) by Google — Preparing data for ML pipelines
+- 📚 [Intro to SQL](https://www.kaggle.com/learn/intro-to-sql) and [Advanced SQL](https://www.kaggle.com/learn/advanced-sql) by Kaggle
+- 📚 [Data Preparation](https://developers.google.com/machine-learning/data-prep) by Google
 
-## 🚀 MLOps & Production
+## MLOps & Production
 
 Deploy, monitor, and maintain ML systems in the real world.
 
