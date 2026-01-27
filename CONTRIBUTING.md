@@ -5,23 +5,22 @@ Thanks for your interest in contributing! This roadmap aims to be a high-quality
 ## What We're Looking For
 
 **Ideal contributions:**
-- Hands-on tutorials and projects (not just explanations)
-- Free resources that fill gaps in the current roadmap
+- Hands-on tutorials and projects, or in-depth explanations
+- Free resources that fill gaps in the current roadmap or improve it
+- Paid resources that streamline learning as an alternate option (see below)
 - Resources from reputable sources (established educators, companies, universities)
 - Content that's been tested and proven effective for learners
 
 **We're NOT looking for:**
-- Paid courses or resources behind paywalls (exceptions made for exceptional quality)
 - Low-effort content or link dumps
 - Promotional material disguised as educational content
-- Resources that duplicate what's already covered
+- Resources that duplicate what's already well-covered
 - AI-generated content farms
 
 ## How to Contribute
 
-1. **Check the existing roadmap** — Make sure your resource fills a genuine gap
-2. **Open an issue first** — Describe the resource and why it belongs in the roadmap
-3. **Submit a PR** — If approved, add the resource to the appropriate section in README.md
+1. **Check the existing roadmap** — Make sure your resource fills a genuine gap or improves what's there
+2. **Open a PR** — Add the resource to the appropriate section in README.md. I'll review all submissions personally.
 
 ## Contribution Guidelines
 
@@ -36,14 +35,17 @@ Thanks for your interest in contributing! This roadmap aims to be a high-quality
 Created something that would help learners? We love original content from the community.
 
 **Requirements for self-submissions:**
-- Must be high-quality and hands-on
-- Must be free to access
-- Must fill a gap not covered by existing resources
+- Must be high-quality (hands-on or in-depth)
+- Must fill a gap or improve the existing roadmap
 - You should be genuinely knowledgeable in the topic
 
-**Swag for Contributors** 🎁
+**AI for Software Engineers Swag** 🎁
 
-If you contribute your own original learning resource and you're in the US, reach out to me on [X (@loganthorneloe)](https://x.com/loganthorneloe) — I'd love to send you some swag as a thank you!
+If you contribute your own original *free* learning resource and you're in the US, reach out to me on [X (@loganthorneloe)](https://x.com/loganthorneloe) — I'd love to send you some AI for Software Engineers swag as a thank you!
+
+## Paid Resource Submissions
+
+Paid resources are welcome if they genuinely streamline the learning path. These require additional review to ensure they meet our quality bar and provide real value. Swag is reserved for free resource contributions, but we appreciate paid submissions that help learners!
 
 ## Questions?
 
