@@ -19,7 +19,14 @@
 
 Your free guide to learning ML and AI. Follow in order. Paid resources marked with 💰.
 
-**Contents:** [Prerequisites](#prerequisites) · [Machine Learning](#machine-learning) · [AI Engineering](#ai-engineering) · [ML Engineering](#ml-engineering) · [Interview Prep](#interview-prep) · [Responsible AI](#responsible-ai) · [Free Compute](#free-compute)
+**Contents**
+- [Prerequisites](#prerequisites)
+- [Machine Learning](#machine-learning)
+- [AI Engineering](#ai-engineering)
+- [ML Engineering](#ml-engineering)
+- [Interview Prep](#interview-prep)
+- [Responsible AI](#responsible-ai)
+- [Free Compute](#free-compute)
 
 ---
 
