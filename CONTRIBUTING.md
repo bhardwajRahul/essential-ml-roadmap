@@ -41,11 +41,7 @@ Created something that would help learners? We love original content from the co
 
 **AI for Software Engineers Swag** 🎁
 
-If you contribute your own original *free* learning resource and you're in the US, reach out to me on [X (@loganthorneloe)](https://x.com/loganthorneloe) — I'd love to send you some AI for Software Engineers swag as a thank you!
-
-## Paid Resource Submissions
-
-Paid resources are welcome if they genuinely streamline the learning path. These require additional review to ensure they meet our quality bar and provide real value. Swag is reserved for free resource contributions, but we appreciate paid submissions that help learners!
+If you contribute your own original learning resource and you're in the US, reach out to me on [X (@loganthorneloe)](https://x.com/loganthorneloe) — I'd love to send you some AI for Software Engineers swag as a thank you!
 
 ## Questions?
 
