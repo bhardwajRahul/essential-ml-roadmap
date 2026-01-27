@@ -36,7 +36,8 @@ This is an **[AI for Software Engineers](https://aiforswes.com)** resource. **[S
 
 Follow the resources in order down the page. Skip the topics you already understand well. You *can* skip to AI engineering section and come back to ML fundamentals later if AI engineering is your focus. I *highly* recommend going through the ML fundamentals section even if this is the case as it will give you a much deeper understanding of the topics in AI engineering.
 
-**AI-assisted learning (experimental):** You can load this repo in your favorite AI coding agent (Claude Code, Gemini CLI, Cursor, etc.) and have it walk you through the roadmap, find resources, and create exercises for you. This functionality is in beta and will be improved over time.
+> [!NOTE]
+> **AI-assisted learning (experimental):** You can load this repo in your favorite AI coding agent (Claude Code, Gemini CLI, Cursor, etc.) and have it walk you through the roadmap, find resources, and create exercises for you. This functionality is in beta and will be improved over time.
 
 🚀 Enjoy the resources!
 
