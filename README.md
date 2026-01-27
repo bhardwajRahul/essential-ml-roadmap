@@ -43,35 +43,24 @@ Your free guide to learning ML and AI. Follow in order. Paid resources marked wi
 
 ![ml fundamentals](assets/road_map_sections/ml_fundamentals.png)
 
-## Machine Learning Fundamentals
+## Machine Learning
 
 - [What is Machine Learning?](https://developers.google.com/machine-learning/intro-to-ml) by Google — 20 min overview
 - [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) by Google — Full course covering regression, classification, neural networks, embeddings, LLMs
 - [Spinning Up in RL](https://spinningup.openai.com/en/latest/) by OpenAI — Reinforcement learning
-- 💰 [Machine Learning Q and AI](https://www.amazon.com/Machine-Learning-AI-Essential-Questions/dp/1718503768/) by Sebastian Raschka
-- **[Hands-on: Build a Recommendation System](./recommendation-system/)** — Collaborative filtering with PyTorch
-
----
-
-![advanced topics](assets/road_map_sections/advanced%20_topics.png)
-
-## Advanced Topics
-
-**Computer Vision**
-- [Kaggle CV Course](https://www.kaggle.com/learn/computer-vision)
-
-**NLP & LLMs**
+- [Kaggle CV Course](https://www.kaggle.com/learn/computer-vision) — Computer vision
 - [Intro to LLMs](https://www.youtube.com/watch?v=zjkBMFhNj_g) by Andrej Karpathy
 - [HuggingFace NLP Course](https://huggingface.co/learn/nlp-course/chapter1/1)
-- 💰 [Build an LLM From Scratch](https://www.amazon.com/Build-Large-Language-Model-Scratch/dp/1633437167/) by Sebastian Raschka
-
-**Optimization & Explainability**
 - [Knowledge Distillation](https://github.com/dkozlov/awesome-knowledge-distillation) by Dmitry Kozlov
 - [ML Explainability](https://www.kaggle.com/learn/machine-learning-explainability) by Kaggle
-
-**Domain Applications**
 - [ML for Science](https://ml-science-book.com/) by Molnar & Freiesleben
 - [ML for Games](https://huggingface.co/learn/ml-games-course/unit0/introduction) by HuggingFace
+- 💰 [Machine Learning Q and AI](https://www.amazon.com/Machine-Learning-AI-Essential-Questions/dp/1718503768/) by Sebastian Raschka
+- 💰 [Build an LLM From Scratch](https://www.amazon.com/Build-Large-Language-Model-Scratch/dp/1633437167/) by Sebastian Raschka
+
+## Hands-On
+
+- [Build a Recommendation System](./recommendation-system/) — Collaborative filtering with PyTorch
 
 ---
 
