@@ -83,7 +83,7 @@ This is an **[AI for Software Engineers](aiforswes.com)** resource. **[Subscribe
 - [ML for Games](https://huggingface.co/learn/ml-games-course/unit0/introduction) by HuggingFace
 
 **Hands-On**
-- [Build a Recommendation System](./recommendation-system/) — Collaborative filtering with PyTorch
+- [Build a Recommendation System](./recommendation-system/) — Collaborative filtering with PyTorch by Logan Thorneloe
 
 More coming soon to this section...
 
@@ -111,20 +111,14 @@ More coming soon to this section...
 <a id="ml-engineering"></a>
 ![ml engineering](assets/road_map_sections/ml_engineering.png)
 
-**Data**
-- [Intro to SQL](https://www.kaggle.com/learn/intro-to-sql) by Kaggle
-- [Advanced SQL](https://www.kaggle.com/learn/advanced-sql) by Kaggle
-- [Data Preparation](https://developers.google.com/machine-learning/data-prep) by Google
-- [DVC](https://dvc.org/doc/start) — Git for data and models
+> 💰 [ML School](https://www.ml.school/) by Santiago is a hands-on live cohort covering MLOps and many of the machine learning topics above.
 
 **MLOps**
-- [MLflow](https://mlflow.org/docs/latest/ml/tracking/quickstart/) — Experiment tracking
-- [Made with ML](https://madewithml.com/) by Goku Mohandas
-- [Evidently AI](https://www.evidentlyai.com/blog/mlops-monitoring) — Model monitoring
+- [Made with ML](https://madewithml.com/) by Goku Mohandas — Complete MLOps course from design to production
 - [ML Efficiency](https://www.youtube.com/playlist?list=PL80kAHvQbh-pT4lCkDT53zT8DKmhE0idB) by MIT
 - [MLOps Community](https://mlops.community/)
 
-> 💰 For comprehensive MLOps training, check out [ML School](https://www.ml.school/) by Santiago and [Designing Machine Learning Systems](https://www.amazon.com/dp/1098107969) by Chip Huyen.
+> 💰 For deeper understanding, read [Designing Machine Learning Systems](https://www.amazon.com/dp/1098107969) by Chip Huyen — covers the architecture and trade-offs of production ML systems.
 
 ---
 
