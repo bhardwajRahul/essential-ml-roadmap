@@ -1,46 +1,29 @@
-# Applications
+# 🎯 Applications
 
-> Apply machine learning to specific domains: computer vision, NLP, LLMs, science, and games.
+Theory becomes real when you apply it. This section covers the major domains where ML creates value—computer vision, natural language processing, and LLMs—plus hands-on projects to build your skills.
 
-**Prerequisites:** [ML Fundamentals](../ml-fundamentals/)
+## 👁️ Computer Vision
 
----
+Teaching machines to see and understand images.
 
-## Computer Vision
+- 📚 [Computer Vision](https://www.kaggle.com/learn/computer-vision) by Kaggle — Practical CV with real datasets
 
-- [Computer Vision](https://www.kaggle.com/learn/computer-vision) by Kaggle
+## 💬 NLP & LLMs
 
----
+Understanding and generating human language.
 
-## NLP & LLMs
+- 🎥 [Intro to LLMs](https://www.youtube.com/watch?v=zjkBMFhNj_g) by Andrej Karpathy — How large language models work
+- 📘 [Build an LLM From Scratch](https://www.amazon.com/Build-Large-Language-Model-Scratch/dp/1633437167/) by Sebastian Raschka — Implement an LLM step by step
+- 📚 [NLP Course](https://huggingface.co/learn/nlp-course/chapter1/1) by HuggingFace — Modern NLP with transformers
 
-**Understanding LLMs**
-- [Intro to LLMs](https://www.youtube.com/watch?v=zjkBMFhNj_g) by Andrej Karpathy
-- [Build an LLM From Scratch](https://www.amazon.com/Build-Large-Language-Model-Scratch/dp/1633437167/) by Sebastian Raschka
+## 🔬 Domain-Specific ML
 
-**NLP Fundamentals**
-- [NLP Course](https://huggingface.co/learn/nlp-course/chapter1/1) by HuggingFace
+- 📘 [ML for Science](https://ml-science-book.com/) by Molnar & Freiesleben — ML in scientific research
+- 🎮 [ML for Games](https://huggingface.co/learn/ml-games-course/unit0/introduction) by HuggingFace — Game AI and procedural generation
 
----
-
-## Domain Applications
-
-- [ML for Science](https://ml-science-book.com/) by Christoph Molnar & Timo Freiesleben
-- [ML for Games](https://huggingface.co/learn/ml-games-course/unit0/introduction) by HuggingFace
-
----
-
-## Projects
+## 🚀 Projects
 
 ### Recommendation System
+Build a collaborative filtering system from scratch with PyTorch. Train a model on real music data and serve recommendations through an interactive UI.
 
-Build a collaborative filtering recommendation system from scratch using PyTorch.
-
-**[View Project →](./recommendation-system/)**
-
----
-
-## Next Steps
-
-- [ML Engineering](../ml-engineering/) - Deploy your models to production
-- [AI Engineering](../ai-engineering/) - Build applications powered by AI
+**[→ Start the project](./recommendation-system/)**

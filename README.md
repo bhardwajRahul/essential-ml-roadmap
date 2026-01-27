@@ -17,54 +17,79 @@
 
 # Machine Learning Road Map
 
-Your guide to learning ML and AI fundamentals for free.
-
-## Learning Path
+Your free guide to learning ML and AI. This roadmap is streamlined—one or two high-quality resources per topic, not a dozen options that leave you paralyzed.
 
 ```mermaid
 graph LR
-    PREREQ[Prerequisites] --> MLF[ML Fundamentals]
-    PREREQ --> AIE[AI Engineering]
+    subgraph Foundation
+        PREREQ[📚 Prerequisites]
+    end
 
-    MLF --> APP[Applications]
-    MLF --> MLE[ML Engineering]
+    subgraph "Core ML"
+        MLF[🧠 ML Fundamentals]
+        ADV[⚡ Advanced Topics]
+    end
 
+    subgraph "Specialization"
+        APP[🎯 Applications]
+        AIE[🤖 AI Engineering]
+        MLE[🔧 ML Engineering]
+    end
+
+    subgraph "For Everyone"
+        ETH[⚖️ Ethics]
+    end
+
+    PREREQ --> MLF
+    MLF --> ADV
+    MLF --> AIE
+    ADV --> APP
+    ADV --> MLE
     APP --> MLE
-    APP --> AIE
-
     MLE --> AIE
+
+    style PREREQ fill:#e1f5fe
+    style MLF fill:#fff3e0
+    style ADV fill:#fff3e0
+    style APP fill:#e8f5e9
+    style AIE fill:#e8f5e9
+    style MLE fill:#e8f5e9
+    style ETH fill:#fce4ec
 ```
 
-## Topics
+| Section | What You'll Learn |
+|---------|-------------------|
+| 📚 [**Prerequisites**](./prerequisites/) | Python programming, essential math, and dev tools you need before starting ML |
+| 🧠 [**ML Fundamentals**](./ml-fundamentals/) | Core concepts that underpin all of machine learning—how models learn, evaluate, and improve |
+| ⚡ [**Advanced Topics**](./advanced-topics/) | Deep learning, reinforcement learning, and other specialized techniques |
+| 🎯 [**Applications**](./applications/) | Put ML to work: computer vision, NLP, LLMs, and hands-on projects |
+| 🤖 [**AI Engineering**](./ai-engineering/) | Build AI products: prompts, agents, RAG, evals, and benchmarks |
+| 🔧 [**ML Engineering**](./ml-engineering/) | Take models to production: data pipelines, MLOps, deployment, and optimization |
+| ⚖️ [**Ethics**](./ethics/) | Responsible AI: ethics, explainability, and building systems people can trust |
 
-| Section | Description |
-|---------|-------------|
-| [**Prerequisites**](./prerequisites/) | Python, NumPy, Pandas, Math, Git |
-| [**ML Fundamentals**](./ml-fundamentals/) | Core ML, Deep Learning, Reinforcement Learning |
-| [**Applications**](./applications/) | Computer Vision, NLP, LLMs, Science, Games |
-| [**AI Engineering**](./ai-engineering/) | Prompt Engineering, AI Agents, RAG |
-| [**ML Engineering**](./ml-engineering/) | Data Engineering, MLOps, Production, Efficiency |
+## 📖 Interview Prep
 
-## Getting Started
+- 📘 Elements of Programming Interviews in [Python](https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949/) / [Java](https://www.amazon.com/Elements-Programming-Interviews-Java-Insiders/dp/1517671272/) / [C++](https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836/)
+- 📘 System Design Interview by Alex Xu - [Volume 1](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF/) and [Volume 2](https://www.amazon.com/System-Design-Interview-Insiders-Guide/dp/1736049119/)
+- 📋 [Study Plan for ML Interviews](https://github.com/khangich/machine-learning-interview) by Khang Pham
 
-**Want to understand ML?** Start with [Prerequisites](./prerequisites/), then [ML Fundamentals](./ml-fundamentals/).
+## 🖥️ Free Compute Resources
 
-**Want to build with AI?** Start with [Prerequisites](./prerequisites/) (just Python), then jump to [AI Engineering](./ai-engineering/).
+Need GPUs to train models? These are free:
+
+| Resource | What You Get |
+|----------|--------------|
+| 🥇 [Google Colab](https://colab.google/) | Free T4/P100 GPUs, easiest to start |
+| 🥇 [Kaggle Notebooks](https://www.kaggle.com/code) | 30 hours/week of P100/T4 GPU |
+| [Lightning AI](https://lightning.ai/) | 22 GPU hours free |
+| [Google Cloud](https://cloud.google.com/gpu) | $300 free credits |
+| [Amazon SageMaker](https://aws.amazon.com/machine-learning/accelerate-machine-learning-P3/) | Free tier available |
+| [Paperspace Gradient](https://www.paperspace.com/notebooks) | Free community tier |
 
 ---
 
-## Interview Prep
+**Subscribe to [AI for Software Engineers](https://aiforswes.com/)** for more resources.
 
-- [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) by Gayle Laakman McDowell
-- System Design Interview by Alex Xu - [Volume 1](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF/) and [Volume 2](https://www.amazon.com/System-Design-Interview-Insiders-Guide/dp/1736049119/)
-- [Study Plan for ML Interviews](https://github.com/khangich/machine-learning-interview) by Khang Pham
+**Support the creators!** Many of these resources took hundreds of hours to make. Buy the books, leave reviews, follow the authors.
 
----
-
-**Subscribe to [AI for Software Engineers](https://aiforswes.com/)** for more learning resources.
-
-**Please support the authors and creators of these resources!** Many of these resources had hundreds of hours put into them. If you purchase a book, leave a review. Follow the creators on social media.
-
----
-
-**Questions or feedback? [Send me a message](https://x.com/loganthorneloe).**
+**Questions?** [Message me on X](https://x.com/loganthorneloe)
