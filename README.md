@@ -26,7 +26,7 @@ graph LR
     end
 
     subgraph Learning
-        ML[🧠 Machine Learning]
+        ML[🧠 ML Fundamentals]
     end
 
     subgraph Building
@@ -53,7 +53,7 @@ graph LR
 | Section | What You'll Learn |
 |---------|-------------------|
 | 📚 [**Prerequisites**](./prerequisites/) | Python, math, and dev tools you need before starting ML |
-| 🧠 [**Machine Learning**](./ml-fundamentals/) | Core concepts, deep learning, RL, CV, NLP, LLMs—everything about how ML works |
+| 🧠 [**Machine Learning Fundamentals**](./ml-fundamentals/) | Core concepts, deep learning, RL, computer vision, NLP, and LLMs |
 | 🤖 [**AI Engineering**](./ai-engineering/) | Build AI products: prompts, agents, RAG, evals |
 | 🔧 [**ML Engineering**](./ml-engineering/) | Take models to production: data pipelines, MLOps, deployment |
 | ⚖️ [**Responsible AI**](./ethics/) | Ethics, explainability, and building systems people can trust |
