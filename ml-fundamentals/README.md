@@ -1,3 +1,5 @@
+![ml fundamentals](../assets/road_map_sections/ml_fundamentals.png)
+
 # Machine Learning Fundamentals
 
 Core ML concepts—classical algorithms, deep learning, and reinforcement learning.

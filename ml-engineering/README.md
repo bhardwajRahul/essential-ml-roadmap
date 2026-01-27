@@ -1,3 +1,5 @@
+![ml engineering](../assets/road_map_sections/ml_engineering.png)
+
 # ML Engineering
 
 Data pipelines, experiment tracking, MLOps, model serving, and monitoring.

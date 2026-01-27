@@ -1,3 +1,5 @@
+![prerequisites](../assets/road_map_sections/prereqs.png)
+
 # Prerequisites
 
 Python, math, and developer tools needed before starting ML.

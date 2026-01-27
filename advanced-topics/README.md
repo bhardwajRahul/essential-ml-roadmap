@@ -1,3 +1,5 @@
+![advanced topics](../assets/road_map_sections/advanced%20_topics.png)
+
 # ML Advanced Topics
 
 Specialized ML techniques—computer vision, NLP, LLMs, and optimization.

@@ -1,3 +1,5 @@
+![ai engineering](../assets/road_map_sections/ai_engineering.png)
+
 # AI Engineering
 
 Prompts, agents, RAG, evals, fine-tuning, and local models. Building products with AI.
