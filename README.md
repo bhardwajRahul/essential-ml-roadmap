@@ -56,6 +56,9 @@ This is an **[AI for Software Engineers](aiforswes.com)** resource. **[Subscribe
 - [GitHub](https://docs.github.com/en/get-started)
 - [Shell](https://www.learnshell.org)
 
+**Ethics**
+- [AI Ethics](https://www.kaggle.com/learn/ai-ethics) by Kaggle
+
 ---
 
 <a id="machine-learning"></a>
@@ -65,12 +68,14 @@ This is an **[AI for Software Engineers](aiforswes.com)** resource. **[Subscribe
 - [What is Machine Learning?](https://developers.google.com/machine-learning/intro-to-ml) by Google — 20 min overview
 - [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) by Google — Full course covering regression, classification, neural networks, embeddings, LLMs
 - [Spinning Up in RL](https://spinningup.openai.com/en/latest/) by OpenAI — Reinforcement learning
+- 💰 [The RLHF Book](https://rlhfbook.com/) by Nathan Lambert — Deep dive into reinforcement learning from human feedback
 
 > 💰 I highly recommend reading Sebastian Raschka's book [Machine Learning Q and AI](https://www.amazon.com/Machine-Learning-AI-Essential-Questions/dp/1718503768/) to get a deeper understanding of fundamental machine learning and AI topics.
 
 **NLP & LLMs**
 - [Intro to LLMs](https://www.youtube.com/watch?v=zjkBMFhNj_g) by Andrej Karpathy
 - [LLM Course](https://github.com/mlabonne/llm-course) by Maxime Labonne — Roadmaps, Colab notebooks, covers fundamentals to fine-tuning
+- [Learning to Reason with LLMs](https://openai.com/index/learning-to-reason-with-llms/) by OpenAI — How reasoning models work
 
 > 💰 You can learn how to build your own GPT-3 level LLM step-by-step in Sebastian Raschka's book [Build an LLM From Scratch](https://www.amazon.com/Build-Large-Language-Model-Scratch/dp/1633437167/).
 
@@ -113,11 +118,10 @@ More coming soon to this section...
 
 > 💰 [ML School](https://www.ml.school/) by Santiago is a hands-on live cohort covering MLOps and many of the machine learning topics above.
 
-**MLOps**
 - [Made with ML](https://madewithml.com/) by Goku Mohandas — Complete MLOps course from design to production
 - [ML Efficiency](https://www.youtube.com/playlist?list=PL80kAHvQbh-pT4lCkDT53zT8DKmhE0idB) by MIT
 - [GPU Performance Engineering Resources](https://github.com/wafer-ai/gpu-perf-engineering-resources) by Wafer AI
-- [MLOps Community](https://mlops.community/)
+- [MLOps Community](https://mlops.community/) - A community for MLOps practitioners
 
 > 💰 For deeper understanding, read [Designing Machine Learning Systems](https://www.amazon.com/dp/1098107969) by Chip Huyen — covers the architecture and trade-offs of production ML systems.
 
@@ -134,18 +138,6 @@ More coming soon to this section...
   - [Volume 1](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF/)
   - [Volume 2](https://www.amazon.com/System-Design-Interview-Insiders-Guide/dp/1736049119/)
 - [Study Plan for ML Interviews](https://github.com/khangich/machine-learning-interview) by Khang Pham
-
----
-
-<a id="responsible-ai"></a>
-## Responsible AI
-
-- [Intro to AI Ethics](https://www.kaggle.com/learn/intro-to-ai-ethics) by Kaggle
-- [Google Responsible AI Practices](https://ai.google/responsibility/responsible-ai-practices/)
-- [Anthropic Core Views on AI Safety](https://www.anthropic.com/news/core-views-on-ai-safety)
-- [Microsoft Responsible AI](https://www.microsoft.com/en-us/ai/responsible-ai)
-- [Partnership on AI](https://partnershiponai.org/)
-- [Stanford HAI](https://hai.stanford.edu/)
 
 ---
 
