@@ -116,6 +116,7 @@ More coming soon to this section...
 **MLOps**
 - [Made with ML](https://madewithml.com/) by Goku Mohandas — Complete MLOps course from design to production
 - [ML Efficiency](https://www.youtube.com/playlist?list=PL80kAHvQbh-pT4lCkDT53zT8DKmhE0idB) by MIT
+- [GPU Performance Engineering Resources](https://github.com/wafer-ai/gpu-perf-engineering-resources) by Wafer AI
 - [MLOps Community](https://mlops.community/)
 
 > 💰 For deeper understanding, read [Designing Machine Learning Systems](https://www.amazon.com/dp/1098107969) by Chip Huyen — covers the architecture and trade-offs of production ML systems.
