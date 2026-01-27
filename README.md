@@ -19,7 +19,7 @@
 
 This is your streamlined roadmap to learning AI and machine learning from scratch, for free. It starts with prerequisites, moves into machine learning fundamentals, and then engineering topics. This repo will be continually updated as I find great resources and create more guides.
 
-> [!NOTE]
+> [!TIP]
 > While the whole learning path is free, some paid resources are included and marked with 💰. These paid resources further streamline your learning. I *highly* recommend them as they're from the best AI educators in the world.
 
 This is an **[AI for Software Engineers](https://aiforswes.com)** resource. **[Subscribe](https://aiforswes.com/subscribe)** to the newsletter to get more fundamental resources and technical deep dives in your inbox. If you'd like to support my work, you can subscribe there (paid or free—both help) and star this repository.
@@ -48,7 +48,7 @@ Follow the resources in order down the page. Skip the topics you already underst
 - [Pandas Course](https://www.kaggle.com/learn/pandas) by Kaggle — Data manipulation
 
 **Math**
-> [!NOTE]
+> [!TIP]
 > 💰 This entire section can be streamlined via Tivadar Danka's [Mathematics of Machine Learning](https://www.packtpub.com/en-us/product/mathematics-of-machine-learning-9781837027873) book. It goes through all of the math topics in this section and more.
 - [Algebra](https://www.khanacademy.org/math/algebra-home) by Khan Academy
 - [Linear Algebra](https://www.khanacademy.org/math/linear-algebra) by Khan Academy
@@ -75,7 +75,7 @@ Follow the resources in order down the page. Skip the topics you already underst
 - [Spinning Up in RL](https://spinningup.openai.com/en/latest/) by OpenAI — Reinforcement learning
 - 💰 [The RLHF Book](https://rlhfbook.com/) by Nathan Lambert — Deep dive into reinforcement learning from human feedback
 
-> [!NOTE]
+> [!TIP]
 > 💰 I highly recommend reading Sebastian Raschka's book [Machine Learning Q and AI](https://www.amazon.com/Machine-Learning-AI-Essential-Questions/dp/1718503768/) to get a deeper understanding of fundamental machine learning and AI topics.
 
 **NLP & LLMs**
@@ -83,7 +83,7 @@ Follow the resources in order down the page. Skip the topics you already underst
 - [LLM Course](https://github.com/mlabonne/llm-course) by Maxime Labonne — Roadmaps, Colab notebooks, covers fundamentals to fine-tuning
 - [Learning to Reason with LLMs](https://openai.com/index/learning-to-reason-with-llms/) by OpenAI — How reasoning models work
 
-> [!NOTE]
+> [!TIP]
 > 💰 You can learn how to build your own GPT-3 level LLM step-by-step in Sebastian Raschka's book [Build an LLM From Scratch](https://www.amazon.com/Build-Large-Language-Model-Scratch/dp/1633437167/).
 
 **Applications**
@@ -123,7 +123,7 @@ More coming soon to this section...
 <a id="ml-engineering"></a>
 ![ml engineering](assets/road_map_sections/ml_engineering.png)
 
-> [!NOTE]
+> [!TIP]
 > 💰 [ML School](https://www.ml.school/) by Santiago is a hands-on live cohort covering MLOps and many of the machine learning topics above.
 
 - [Made with ML](https://madewithml.com/) by Goku Mohandas — Complete MLOps course from design to production
@@ -131,7 +131,7 @@ More coming soon to this section...
 - [GPU Performance Engineering Resources](https://github.com/wafer-ai/gpu-perf-engineering-resources) by Wafer AI
 - [MLOps Community](https://mlops.community/) — Community for MLOps practitioners
 
-> [!NOTE]
+> [!TIP]
 > 💰 For deeper understanding, read [Designing Machine Learning Systems](https://www.amazon.com/dp/1098107969) by Chip Huyen — covers the architecture and trade-offs of production ML systems.
 
 ---
