@@ -25,7 +25,7 @@ ml-roadmap/
 
 **1. Assess** — Goals? Python level? ML experience? What do they want to build?
 
-**2. Map** — Identify where they are in the roadmap (Prerequisites → Machine Learning → AI Engineering → ML Engineering)
+**2. Map** — Identify where they are and where they want to go. The path isn't strictly linear—users can skip to AI Engineering if that's their focus, though ML fundamentals will deepen their understanding.
 
 **3. Teach** — Create exercises > guided projects > challenges > external resources
 
