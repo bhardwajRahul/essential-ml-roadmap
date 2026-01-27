@@ -20,7 +20,7 @@
 This is your streamlined roadmap to learning AI and machine learning from scratch, for free. It starts with prerequisites, moves into machine learning fundamentals, and then engineering topics. This repo will be continually updated as I find great resources and create more guides.
 
 > [!WARNING]
-> While most resources are free, some paid resources are included and marked with 💰. These paid resources further streamline your learning. I *highly* recommend them as they're from the best AI educators in the world.
+> While the whole learning path is free, some paid resources are included and marked with 💰. These paid resources further streamline your learning. I *highly* recommend them as they're from the best AI educators in the world.
 
 This is an **[AI for Software Engineers](https://aiforswes.com)** resource. **[Subscribe](https://aiforswes.com/subscribe)** to the newsletter to get more fundamental resources and technical deep dives in your inbox. If you'd like to support my work, you can subscribe there (paid or free—both help) and star this repository.
 
@@ -129,7 +129,7 @@ More coming soon to this section...
 - [Made with ML](https://madewithml.com/) by Goku Mohandas — Complete MLOps course from design to production
 - [ML Efficiency](https://www.youtube.com/playlist?list=PL80kAHvQbh-pT4lCkDT53zT8DKmhE0idB) by MIT
 - [GPU Performance Engineering Resources](https://github.com/wafer-ai/gpu-perf-engineering-resources) by Wafer AI
-- [MLOps Community](https://mlops.community/)
+- [MLOps Community](https://mlops.community/) — Community for MLOps practitioners
 
 > [!WARNING]
 > 💰 For deeper understanding, read [Designing Machine Learning Systems](https://www.amazon.com/dp/1098107969) by Chip Huyen — covers the architecture and trade-offs of production ML systems.
