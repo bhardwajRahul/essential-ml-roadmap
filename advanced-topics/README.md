@@ -1,6 +1,6 @@
-# Advanced Topics
+# ML Advanced Topics
 
-Specialized ML techniques and applications—computer vision, NLP, LLMs, model optimization, and domain-specific ML.
+Specialized ML techniques—computer vision, NLP, LLMs, and model optimization.
 
 ## Computer Vision
 

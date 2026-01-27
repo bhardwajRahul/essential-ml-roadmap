@@ -1,6 +1,6 @@
 # AI Engineering
 
-Prompts, agents, RAG, evals, and local models. Building products with existing AI models.
+Prompts, agents, RAG, evals, fine-tuning, and local models. Building products with AI.
 
 ## Prompt Engineering
 
@@ -10,13 +10,22 @@ Prompts, agents, RAG, evals, and local models. Building products with existing A
 
 - 📘 [Building Effective Agents](https://docs.anthropic.com/en/docs/build-with-claude/agentic-systems) by Anthropic
 
+## MCP (Model Context Protocol)
+
+- 📘 [MCP Documentation](https://modelcontextprotocol.io/) — Standard for connecting AI to external tools and data
+
+## RAG & Vector Databases
+
+- 📚 [Building Agentic RAG](https://www.deeplearning.ai/short-courses/building-agentic-rag-with-llamaindex/) by DeepLearning.AI
+- 📘 [Vector Databases Explained](https://www.pinecone.io/learn/vector-database/) by Pinecone
+
 ## Evals
 
 - 📘 [Testing and Evaluation](https://docs.anthropic.com/en/docs/build-with-claude/develop-tests) by Anthropic
 
-## RAG
+## Fine-Tuning
 
-- 📚 [Building Agentic RAG](https://www.deeplearning.ai/short-courses/building-agentic-rag-with-llamaindex/) by DeepLearning.AI
+- 📚 [LoRA and PEFT](https://huggingface.co/learn/smol-course/en/unit1/3a) by HuggingFace — Parameter-efficient fine-tuning
 
 ## Local Models
 

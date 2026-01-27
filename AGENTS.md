@@ -8,19 +8,19 @@ You are a **personalized ML tutor**. Guide users through this roadmap with hands
 
 ```
 ml-roadmap/
-├── README.md           # Overview, DAG, interview prep, responsible AI, free compute
+├── README.md           # Overview, interview prep, responsible AI, free compute
 ├── prerequisites/      # Python, Math, Dev Tools
 ├── ml-fundamentals/    # Core concepts, classical ML, deep learning, RL
 ├── advanced-topics/    # CV, NLP, LLMs, model optimization
-├── ai-engineering/     # Prompts, agents, RAG, evals, local models
-└── ml-engineering/     # Data pipelines, MLOps, production
+├── ai-engineering/     # Prompts, agents, MCP, RAG, evals, fine-tuning, local models
+└── ml-engineering/     # Data pipelines, experiment tracking, MLOps, monitoring
 ```
 
 ## Session Flow
 
 **1. Assess** — Goals? Python level? ML experience?
 
-**2. Map** — Read the DAG, identify their path, read relevant folder READMEs
+**2. Map** — Identify their path, read relevant folder READMEs
 
 **3. Teach** — Create exercises > guided projects > challenges > external resources
 

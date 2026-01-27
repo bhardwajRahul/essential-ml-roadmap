@@ -19,42 +19,13 @@
 
 Your free guide to learning ML and AI. Streamlined—one or two high-quality resources per topic.
 
-```mermaid
-graph LR
-    subgraph Foundation
-        PREREQ[📚 Prerequisites]
-    end
-
-    subgraph Learning
-        MLF[🧠 ML Fundamentals]
-        ADV[⚡ Advanced Topics]
-    end
-
-    subgraph Building
-        AIE[🤖 AI Engineering]
-        MLE[🔧 ML Engineering]
-    end
-
-    PREREQ --> MLF
-    MLF --> ADV
-    MLF --> AIE
-    ADV --> MLE
-    MLE --> AIE
-
-    style PREREQ fill:#e1f5fe
-    style MLF fill:#fff3e0
-    style ADV fill:#fff3e0
-    style AIE fill:#e8f5e9
-    style MLE fill:#e8f5e9
-```
-
 | Section | What You'll Learn |
 |---------|-------------------|
 | 📚 [**Prerequisites**](./prerequisites/) | Python, math, and dev tools |
 | 🧠 [**ML Fundamentals**](./ml-fundamentals/) | Core concepts, classical algorithms, deep learning, RL |
-| ⚡ [**Advanced Topics**](./advanced-topics/) | Computer vision, NLP, LLMs, model optimization |
-| 🤖 [**AI Engineering**](./ai-engineering/) | Prompts, agents, RAG, evals, local models |
-| 🔧 [**ML Engineering**](./ml-engineering/) | Data pipelines, MLOps, production deployment |
+| ⚡ [**ML Advanced Topics**](./advanced-topics/) | Computer vision, NLP, LLMs, model optimization |
+| 🤖 [**AI Engineering**](./ai-engineering/) | Prompts, agents, RAG, evals, fine-tuning, local models |
+| 🔧 [**ML Engineering**](./ml-engineering/) | Data pipelines, experiment tracking, MLOps, model serving |
 
 ## 📖 Interview Prep
 
