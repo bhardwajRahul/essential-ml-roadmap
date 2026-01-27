@@ -19,11 +19,12 @@
 
 Your free guide to learning ML and AI. Follow in order. Paid resources marked with 💰.
 
+**Contents:** [Prerequisites](#prerequisites) · [Machine Learning](#machine-learning) · [AI Engineering](#ai-engineering) · [ML Engineering](#ml-engineering) · [Interview Prep](#interview-prep) · [Responsible AI](#responsible-ai) · [Free Compute](#free-compute)
+
 ---
 
+<a id="prerequisites"></a>
 ![prerequisites](assets/road_map_sections/prereqs.png)
-
-## Prerequisites
 
 **Programming**
 - [CS50](https://cs50.harvard.edu/x/2024/weeks/0/) by Harvard — Intro to programming
@@ -41,34 +42,38 @@ Your free guide to learning ML and AI. Follow in order. Paid resources marked wi
 
 ---
 
+<a id="machine-learning"></a>
 ![ml fundamentals](assets/road_map_sections/ml_fundamentals.png)
 
-## Machine Learning
-
+**Fundamentals**
 - [What is Machine Learning?](https://developers.google.com/machine-learning/intro-to-ml) by Google — 20 min overview
 - [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) by Google — Full course covering regression, classification, neural networks, embeddings, LLMs
 - [Spinning Up in RL](https://spinningup.openai.com/en/latest/) by OpenAI — Reinforcement learning
-- [Kaggle CV Course](https://www.kaggle.com/learn/computer-vision) — Computer vision
+- 💰 [Machine Learning Q and AI](https://www.amazon.com/Machine-Learning-AI-Essential-Questions/dp/1718503768/) by Sebastian Raschka
+
+**Computer Vision**
+- [Kaggle CV Course](https://www.kaggle.com/learn/computer-vision)
+
+**NLP & LLMs**
 - [Intro to LLMs](https://www.youtube.com/watch?v=zjkBMFhNj_g) by Andrej Karpathy
 - [HuggingFace NLP Course](https://huggingface.co/learn/nlp-course/chapter1/1)
-- [Knowledge Distillation](https://github.com/dkozlov/awesome-knowledge-distillation) by Dmitry Kozlov
-- [ML Explainability](https://www.kaggle.com/learn/machine-learning-explainability) by Kaggle
-- [ML for Science](https://ml-science-book.com/) by Molnar & Freiesleben
-- [ML for Games](https://huggingface.co/learn/ml-games-course/unit0/introduction) by HuggingFace
-- 💰 [Machine Learning Q and AI](https://www.amazon.com/Machine-Learning-AI-Essential-Questions/dp/1718503768/) by Sebastian Raschka
 - 💰 [Build an LLM From Scratch](https://www.amazon.com/Build-Large-Language-Model-Scratch/dp/1633437167/) by Sebastian Raschka
 
-## Hands-On
+**Optimization & Explainability**
+- [Knowledge Distillation](https://github.com/dkozlov/awesome-knowledge-distillation) by Dmitry Kozlov
+- [ML Explainability](https://www.kaggle.com/learn/machine-learning-explainability) by Kaggle
 
+**Domain Applications**
+- [ML for Science](https://ml-science-book.com/) by Molnar & Freiesleben
+- [ML for Games](https://huggingface.co/learn/ml-games-course/unit0/introduction) by HuggingFace
+
+**Hands-On**
 - [Build a Recommendation System](./recommendation-system/) — Collaborative filtering with PyTorch
 
 ---
 
+<a id="ai-engineering"></a>
 ![ai engineering](assets/road_map_sections/ai_engineering.png)
-
-## AI Engineering
-
-Building products with AI — prompts, agents, RAG, evals, fine-tuning, local models.
 
 - [Prompt Engineering Guide](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview) by Anthropic
 - [Building Effective Agents](https://docs.anthropic.com/en/docs/build-with-claude/agentic-systems) by Anthropic
@@ -85,11 +90,8 @@ Building products with AI — prompts, agents, RAG, evals, fine-tuning, local mo
 
 ---
 
+<a id="ml-engineering"></a>
 ![ml engineering](assets/road_map_sections/ml_engineering.png)
-
-## ML Engineering
-
-Data pipelines, experiment tracking, MLOps, model serving, monitoring.
 
 - [Intro to SQL](https://www.kaggle.com/learn/intro-to-sql), [Advanced SQL](https://www.kaggle.com/learn/advanced-sql) by Kaggle
 - [Data Preparation](https://developers.google.com/machine-learning/data-prep) by Google
@@ -104,6 +106,7 @@ Data pipelines, experiment tracking, MLOps, model serving, monitoring.
 
 ---
 
+<a id="interview-prep"></a>
 ## Interview Prep
 
 - 💰 Elements of Programming Interviews in [Python](https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949/) / [Java](https://www.amazon.com/Elements-Programming-Interviews-Java-Insiders/dp/1517671272/) / [C++](https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836/)
@@ -112,6 +115,7 @@ Data pipelines, experiment tracking, MLOps, model serving, monitoring.
 
 ---
 
+<a id="responsible-ai"></a>
 ## Responsible AI
 
 - [Intro to AI Ethics](https://www.kaggle.com/learn/intro-to-ai-ethics) by Kaggle
@@ -123,6 +127,7 @@ Data pipelines, experiment tracking, MLOps, model serving, monitoring.
 
 ---
 
+<a id="free-compute"></a>
 ## Free Compute
 
 | Resource | What You Get |
